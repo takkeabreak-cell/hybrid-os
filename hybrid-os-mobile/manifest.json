@@ -1,0 +1,19 @@
+{
+  "id": "hybrid-os",
+  "name": "Hybrid Athlete OS",
+  "short_name": "Hybrid OS",
+  "description": "Tactical multi-sport training planner, daily task engine and long-term goals",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b132b",
+  "theme_color": "#0b132b",
+  "lang": "en",
+  "categories": ["health", "fitness", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
